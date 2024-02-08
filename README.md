@@ -12,8 +12,7 @@ This is a simple to-do list application built using HTML, CSS, and JavaScript. I
 ## Installation
 
 1. Clone this repository to your local machine:
-git clone https://github.com/melvinp23/to-do-list.git
-
+   `git clone https://github.com/melvinp23/to-do-list.git'`
 
 2. Open `index.html` in your web browser to start using the application.
 
